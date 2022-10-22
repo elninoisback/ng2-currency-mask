@@ -1,4 +1,4 @@
-# ng2-currency-mask
+# ng2-currency-mask with possibility to type minus (-) before tying any digits
 
 A very simple currency mask directive for Angular that allows using a number attribute with the ngModel. In other words, the model is a number, and not a string with a mask. It was tested in Angular version 13.
 
